@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/hello-world.umd.js",
+  "module": "fesm5/hello-world.js",
+  "es2015": "fesm2015/hello-world.js",
+  "esm5": "esm5/hello-world.js",
+  "esm2015": "esm2015/hello-world.js",
+  "fesm5": "fesm5/hello-world.js",
+  "fesm2015": "fesm2015/hello-world.js",
+  "typings": "hello-world.d.ts",
+  "metadata": "hello-world.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
